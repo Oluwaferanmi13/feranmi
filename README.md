@@ -71,8 +71,6 @@ a ,.link{
   </style>  
 </head>
 <body style="background-color:blue; margin-bottom: 1000px;">
-  <hhhhh
-  <p>feranmi</p>
 <button class="home" id="#">HOME</button>
   <button class="about">ABOUT</button>
   <button class="cont">CONTACTS</button>
